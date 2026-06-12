@@ -1,0 +1,22 @@
+// ===== 設計變數（品牌色 / 間距 / 圓角 / 斷點）=====
+$color-leaf: #5bb318;   // 主色：葉子綠
+$color-leaf-dark: #418a0f;
+$color-petal: #ff7eb6;  // 點綴：花瓣粉
+$color-sky: #56b4e9;    // 點綴：天空藍
+$color-bg: #f6faf0;
+$color-card: #ffffff;
+$color-text: #2c3a23;
+$color-text-muted: #6b7a60;
+$color-border: #e3ecd7;
+
+$radius-sm: 8px;
+$radius-md: 14px;
+$radius-lg: 22px;
+
+$shadow-card: 0 4px 16px rgba(91, 179, 24, 0.12);
+$shadow-hover: 0 8px 28px rgba(91, 179, 24, 0.22);
+
+// 響應式斷點
+$bp-sm: 640px;
+$bp-md: 768px;
+$bp-lg: 1024px;

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "red",
+    "name": "紅色皮克敏",
+    "color": "red",
+    "colorHex": "#e74c3c",
+    "emoji": "🔴",
+    "weightHint": "約 100 克",
+    "traits": ["攻擊力較高", "不畏火焰"],
+    "decorNote": "常見飾品來源多樣，是隊伍主力之一。",
+    "tags": ["主力", "輕量", "火"]
+  },
+  {
+    "id": "yellow",
+    "name": "黃色皮克敏",
+    "color": "yellow",
+    "colorHex": "#f1c40f",
+    "emoji": "🟡",
+    "weightHint": "約 100 克",
+    "traits": ["可被拋得更高", "不畏電流"],
+    "decorNote": "處理電流類遠征障礙的好幫手。",
+    "tags": ["輕量", "電"]
+  },
+  {
+    "id": "blue",
+    "name": "藍色皮克敏",
+    "color": "blue",
+    "colorHex": "#3498db",
+    "emoji": "🔵",
+    "weightHint": "約 100 克",
+    "traits": ["不畏水", "可在水中行動"],
+    "decorNote": "水邊、海灘類地點的探索與飾品常用。",
+    "tags": ["輕量", "水"]
+  },
+  {
+    "id": "white",
+    "name": "白色皮克敏",
+    "color": "white",
+    "colorHex": "#ecf0f1",
+    "emoji": "⚪",
+    "weightHint": "約 100 克",
+    "traits": ["移動速度快", "不畏毒"],
+    "decorNote": "速度型，適合趕時間的遠征。",
+    "tags": ["輕量", "速度", "毒"]
+  },
+  {
+    "id": "pink",
+    "name": "粉色（羽毛）皮克敏",
+    "color": "pink",
+    "colorHex": "#ff7eb6",
+    "emoji": "🩷",
+    "weightHint": "約 100 克",
+    "traits": ["有翅膀可飛行", "能越過障礙物"],
+    "decorNote": "飛行特性讓它能處理特殊地形遠征。",
+    "tags": ["輕量", "飛行"]
+  },
+  {
+    "id": "purple",
+    "name": "紫色皮克敏",
+    "color": "purple",
+    "colorHex": "#9b59b6",
+    "emoji": "🟣",
+    "weightHint": "約 250 克",
+    "traits": ["力量大、戰力高", "重量較重"],
+    "decorNote": "戰力型，打蘑菇與搬重物的關鍵戰力。",
+    "tags": ["重量", "高戰力"]
+  },
+  {
+    "id": "gray",
+    "name": "灰色（岩石）皮克敏",
+    "color": "gray",
+    "colorHex": "#95a5a6",
+    "emoji": "⬜",
+    "weightHint": "約 250 克",
+    "traits": ["可破壞水晶、堅硬障礙", "重量較重"],
+    "decorNote": "面對水晶／石牆障礙時的破關要角。",
+    "tags": ["重量", "破壞"]
+  }
+]
